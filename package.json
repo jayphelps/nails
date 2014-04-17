@@ -1,0 +1,14 @@
+{
+  "name": "nails",
+  "main": "./lib/bootstrap.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "es6-module-loader": "jayphelps/es6-module-loader",
+    "koa": "~0.5.5"
+  }
+}
