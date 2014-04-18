@@ -1,4 +1,4 @@
 nails
 =====
 
-Node.js web application framework based on JavaScript ES7 features
+Node.js web application framework based on JavaScript ES6 and ES7 features
